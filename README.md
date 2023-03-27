@@ -5,7 +5,6 @@ several projects completed during Yandex Practicum DS course
 
 | Название проекта  | Краткое описание | Инструменты |
 |--|--|--|
-
 |[Исследование объявлений о продаже квартир](https://github.com/KirillErokhin/yandex_practicum_DS_projects/blob/main/03_real_estate) | На основании данных сервиса Яндекс.Недвижимость определить рыночную стоимость объектов недвижимости и установить параметры, которые помогут отследить аномалии и мошенническую деятельность. | `pandas` , `matplotlib`, `seaborn`|
 |[Сборный проект. Продажа игр.](https://github.com/KirillErokhin/yandex_practicum_DS_projects/tree/main/05_games) | Исследование продажи игр по всему миру с целью выявить определяющие успешность игры закономерности. | `pandas` , `matplotlib`, `numpy`, `scipy`, `seaborn`|
 |[Рекомендация тарифов](https://github.com/KirillErokhin/yandex_practicum_DS_projects/tree/main/06_rec_tariff) | Построение модели для задачи классификации, которая способна проанализировать поведение клиентов и предложить пользователям новый тариф. | `pandas` , `matplotlib`, `numpy`, `seaborn`, `scikit-learn`, `catboost`|
