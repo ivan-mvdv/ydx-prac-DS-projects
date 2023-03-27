@@ -1,5 +1,4 @@
 # ydx-prac-DS-projects
-several projects completed during Yandex Practicum DS course
 
 Репозиторий с избранными проектами, созданными в ходе прохождения курсов Data Science от Яндекс.Практикум .
 
