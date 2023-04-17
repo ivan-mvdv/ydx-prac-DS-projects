@@ -135,7 +135,7 @@
  
   <div>
     <img align = left src="https://iili.io/HvePFkl.md.png" width="600"/>
-  <br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   
  ### Трудности:
  - Использовать ли ресэмплинг? Отказался, модели переобучались и завышали метрики на тестовой выборке
