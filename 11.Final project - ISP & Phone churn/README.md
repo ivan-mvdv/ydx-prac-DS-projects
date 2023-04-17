@@ -134,7 +134,7 @@
   * Наиболее важные признаки для модели - длительность обслуживания абонента, ежемесячная сумма к оплате, тип контракта и тип интернет-подключения. 
  
   <div>
-    <img align = left src="https://iili.io/Hve6rLF.md.png" width="450"/>
+    <img align = left src="https://iili.io/HvePFkl.md.png" width="600"/>
   <br><br><br><br><br><br><br>
   
  ### Трудности:
